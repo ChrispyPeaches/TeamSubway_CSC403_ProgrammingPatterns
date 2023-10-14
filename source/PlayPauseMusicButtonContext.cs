@@ -37,7 +37,7 @@ public class PlayPauseMusicButtonContext
     /// When the button is clicked, switch the state variable to
     /// the opposite type.
     /// </summary>
-    public void clickButton()
+    public void ClickButton()
     {
         if (musicState.GetType() == typeof(MusicPlayingState))
         {
