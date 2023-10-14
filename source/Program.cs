@@ -9,5 +9,5 @@ while (true)
 {
     Console.WriteLine("Press a key to click the button");
     Console.ReadKey();
-    musicPlayerContext.clickButton();
+    musicPlayerContext.ClickButton();
 }
