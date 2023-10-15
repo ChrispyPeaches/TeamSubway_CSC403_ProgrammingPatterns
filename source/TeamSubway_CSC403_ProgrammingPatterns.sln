@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSC403_DesignPatterns_State_ChrisPerry", "CSC403_DesignPatterns_State_ChrisPerry.csproj", "{9CEC4CC3-F548-45BC-89A0-4F893EEB309C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSC_403_DesignPatterns_Proxy_ElijahPayton", "..\CSC_403_DesignPatterns_Proxy_ElijahPayton\CSC_403_DesignPatterns_Proxy_ElijahPayton.csproj", "{E4E26A9E-F2BE-4095-916B-C0C44278C6FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9CEC4CC3-F548-45BC-89A0-4F893EEB309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CEC4CC3-F548-45BC-89A0-4F893EEB309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CEC4CC3-F548-45BC-89A0-4F893EEB309C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E26A9E-F2BE-4095-916B-C0C44278C6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E26A9E-F2BE-4095-916B-C0C44278C6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E26A9E-F2BE-4095-916B-C0C44278C6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E26A9E-F2BE-4095-916B-C0C44278C6FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
